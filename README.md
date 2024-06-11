@@ -51,6 +51,8 @@ Include the script in your HTML document:
     <script>
         // The script content goes here
     </script>
+    <!-- or -->
+    <script src="gridScript.js"></script>
 </body>
 </html>
 ```
