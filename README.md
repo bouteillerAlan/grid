@@ -46,7 +46,7 @@ const settings = {
 
 ## Usage
 
-Include the script in your HTML document:
+Include the script (`gridScript.js`) in your HTML document:
 
 ```html
 <!DOCTYPE html>
@@ -68,6 +68,8 @@ Include the script in your HTML document:
 </html>
 ```
 You can also copy/paste the script directly in the dev console if you want to view the grid on an online website.
+
+You can also use `column.js` or `vandegraaf.js` file if you want just one of this two option.
 
 ## Controls
 
