@@ -51,3 +51,4 @@ Include the script in your HTML document:
 </body>
 </html>
 ```
+You can also copy/paste the script directly in the dev console if you wan to view the grid on online website.
