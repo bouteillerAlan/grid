@@ -5,6 +5,13 @@ This script provides a grid overlay that can switch between a column grid and a 
 Example on the [Lenis website](https://lenis.darkroom.engineering/)
 ![Example of the usage of the grid script on the Lenis website](2024-06-11_13-25.png)
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="2024-06-11_15-46.png" alt="column grid" width="200" />
+  <img src="2024-06-11_15-46_1.png" alt="van de graaf canon grid" width="200" />
+  <img src="2024-06-11_15-45.png" alt="other van de graaf grid" width="200" />
+  <img src="2024-06-11_15-46_2.png" alt="other van de graaf grid" width="200" />
+</div>
+
 ## Features
 
 - Toggles the grid overlay on and off with `Ctrl+G`.
