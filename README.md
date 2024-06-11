@@ -2,6 +2,9 @@
 
 This script creates a column grid overlay on top of all other elements in the body of an HTML document. The grid can be toggled on and off by pressing `Ctrl+G`. The grid adjusts between a mobile layout and a desktop layout based on a configurable breakpoint. Additionally, information about the grid is displayed on the second press of `Ctrl+G` and hidden on the third press.
 
+Example on the [Lenis website](https://lenis.darkroom.engineering/)
+![Example of the usage of the grid script on the Lenis website](2024-06-11_13-25.png)
+
 ## Features
 
 - Toggles the grid overlay on and off with `Ctrl+G`.
@@ -52,3 +55,29 @@ Include the script in your HTML document:
 </html>
 ```
 You can also copy/paste the script directly in the dev console if you wan to view the grid on online website.
+
+## Code of conduct, license, authors, changelog, contributing
+
+See the following file :
+- [code of conduct](CODE_OF_CONDUCT.md)
+- [license](LICENSE)
+- [authors](AUTHORS)
+- [contributing](CONTRIBUTING.md)
+- [changelog](CHANGELOG)
+- [security](SECURITY.md)
+
+## Roadmap
+
+- Nothing yet, I take feature request on the go :)
+
+## Want to participate? Have a bug or a request feature?
+
+Do not hesitate to open a pr or an issue. I reply when I can.
+
+## Want to support my work?
+
+- [Give me a tips](https://ko-fi.com/a2n00)
+- [Give a star on github](https://github.com/bouteillerAlan/grid)
+- Or just participate to the developement :D
+
+### Thanks !
